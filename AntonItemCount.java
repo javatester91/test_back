@@ -23,6 +23,13 @@ public class AntonItemCount {
 
         List<String> method=new ArrayList<String>();
         method.add("getDataCenterMigration");
+        method.add("getICTReviews");
+        method.add("getContracts");
+        method.add("getExecutors");
+        method.add("getKeyIndicators");
+        method.add("getRequests2");
+        method.add("getSystems");
+        method.add("getEvents");
 
         count = 3l;
 
